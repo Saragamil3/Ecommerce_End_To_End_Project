@@ -17,3 +17,8 @@
 - Python
    - Built a data pipeline integrated with SQL Server.
    - Performed data analysis using Python libraries.
+# Create Azure SQL Server Database
+  ![azure](https://github.com/Saragamil3/Ecommerce_End_To_End_Project/blob/main/Screenshot%202025-05-23%20161830%20(1).png)
+# SQL server management system 
+- Database Creation
+  ![ERD](https://github.com/Saragamil3/Ecommerce_End_To_End_Project/blob/main/Screenshot%202025-06-03%20073118.png)
